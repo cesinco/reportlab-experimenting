@@ -42,6 +42,6 @@ https://www.adobe.com/support/products/enterprise/knowledgecenter/media/c4611_sa
 
 This file has been downloaded to the repo and can be seen [here](c4611_sample_explain.pdf)
 
-The code to reproduce this file is located in the [real-world-example.ipynb](real-world-example.ipynb) notebook file and the resulting output is located in file [real-world-example.pdf](real-world-example)
+The code to reproduce this file is located in the [real-world-example.ipynb](real-world-example.ipynb) notebook file and the resulting output is located in file [real-world-example.pdf](real-world-example.pdf)
 
 This code has additional functionality to add things like bookmarks and encryption not available in the sample file provided by Adobe
