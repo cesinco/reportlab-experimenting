@@ -19,12 +19,14 @@ using a command prompt at that path, create your virtual environment, in this ca
 
 3. Install the necessary libraries into the activated environment:  
 `(base) C:\GitHub\reportlab-experimenting>pip install numpy`  
-`(base) C:\GitHub\reportlab-experimenting>pip install reportlab`
+`(base) C:\GitHub\reportlab-experimenting>pip install reportlab`  
+`(base) C:\GitHub\reportlab-experimenting>pip install lorem`
 
 4. The installation of reportlab should also install pillow library, if required
 
-5. Once reportlab is installed, download additional font files, specifically a barcode39 font named "LibreBarcode39-Regular.ttf" - search for the download location currently [here](https://fonts.google.com/specimen/Libre+Barcode+39). If necessary, unzip the archive file and drop the file named LibreBarcode39-Regular.ttf into the folder  
-`C:\GitHub\reportlab-experimenting\base\Lib\site-packages\reportlab\fonts`
+5. Once reportlab is installed, download additional font files, specifically a barcode39 font named "LibreBarcode39-Regular.ttf" - search for the download location currently on [google fonts](https://fonts.google.com/specimen/Libre+Barcode+39). If necessary, unzip the archive file and drop the file named LibreBarcode39-Regular.ttf into the folder  
+`C:\GitHub\reportlab-experimenting\base\Lib\site-packages\reportlab\fonts`  
+Alternatively, you can download a similar font from [barcodesinc](https://www.barcodesinc.com/free-barcode-font/) and then extract the extended font file `fre3of9x.ttf`
 
 6. In your development environment (I use VS-Code) choose your Python interpreter to point to the "base" virtual environment you just created, as well as the Python kernel
 
