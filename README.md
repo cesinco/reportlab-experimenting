@@ -20,7 +20,8 @@ using a command prompt at that path, create your virtual environment, in this ca
 3. Install the necessary libraries into the activated environment:  
 `(base) C:\GitHub\reportlab-experimenting>pip install numpy`  
 `(base) C:\GitHub\reportlab-experimenting>pip install reportlab`  
-`(base) C:\GitHub\reportlab-experimenting>pip install lorem`
+`(base) C:\GitHub\reportlab-experimenting>pip install lorem`  
+`(base) C:\GitHub\reportlab-experimenting>pip install loremipsum`
 
 4. The installation of reportlab should also install pillow library, if required
 
